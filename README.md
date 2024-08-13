@@ -32,5 +32,6 @@ Links
 
 [Data Source 2: Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/series/MSPUS)
 
+
 [Data Source 3: SoFi](https://www.sofi.com/learn/content/average-salary-in-us/)
 

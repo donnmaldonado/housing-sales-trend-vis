@@ -21,7 +21,7 @@ Highlights
 
 Design
 ---
-
+![image](https://github.com/user-attachments/assets/e5dec9ca-e3ab-427a-a3c2-5a08b3a69d75)
 
 Links
 ---
